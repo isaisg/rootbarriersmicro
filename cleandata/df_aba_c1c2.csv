@@ -1,0 +1,88 @@
+Gene,Description,AverageVFoldChangeEligeAbaPaper,Classification
+AT5G59310,lipid transfer protein 4,10.5548946119598,C2
+AT4G28110,myb domain protein 41,8.92003335993914,C2
+AT5G59320,lipid transfer protein 3,7.32359991585793,C2
+AT3G11430,glycerol-3-phosphate acyltransferase 5,6.29619978591623,C2
+AT5G13580,ABC-2 type transporter family protein,6.18602297321525,C2
+AT2G39510,nodulin MtN21 /EamA-like transporter family protein,5.97131017780097,C2
+AT5G50800,Nodulin MtN3 family protein,5.91750887731075,C2
+AT5G09520,hydroxyproline-rich glycoprotein family protein,5.86852340620793,C2
+AT5G13900,Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein,5.78384671413918,C2
+AT4G36610,alpha/beta-Hydrolases superfamily protein,5.6083105295806,C2
+AT5G23190,cytochrome P450, family 86, subfamily B, polypeptide 1,4.97138186718921,C2
+AT1G54540,Late embryogenesis abundant (LEA) hydroxyproline-rich glycoprotein family,4.94976629090259,C2
+AT3G30210,myb domain protein 121,4.64812697068229,C2
+AT1G68850,Peroxidase superfamily protein,4.64332030335279,C2
+AT1G43160,related to AP2 6,4.54836906928054,C1
+AT2G40370,laccase 5,4.35502316699633,C2
+AT3G62990,,4.31542834010985,C1
+AT5G19410,ABC-2 type transporter family protein,4.30367461884946,C2
+AT1G56320,,4.14981027858166,C2
+AT2G19900,NADP-malic enzyme 1,4.1320942216233,C2
+AT3G44550,fatty acid reductase 5,3.96531702231625,C2
+AT1G47610,Transducin/WD40 repeat-like superfamily protein,3.72592714341755,C1
+AT4G34380,Transducin/WD40 repeat-like superfamily protein,3.64540181192726,C1
+AT3G12500,basic chitinase,3.63905853163296,C2
+AT5G62480,glutathione S-transferase tau 9,3.48338220973884,C2
+AT3G50980,dehydrin xero 1,3.4694705734042,C1
+AT3G53980,Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein,3.45139837738244,C2
+AT2G37440,DNAse I-like superfamily protein,3.36204168305047,C1
+AT5G23220,nicotinamidase 3,3.34564852289594,C2
+AT5G25610,BURP domain-containing protein,3.28593088356072,C2
+AT3G57010,Calcium-dependent phosphotriesterase superfamily protein,3.2430167317281,C2
+AT1G54870,NAD(P)-binding Rossmann-fold superfamily protein,3.20242394058405,C1
+AT1G16515,,3.11328484165799,C2
+AT4G24130,Protein of unknown function, DUF538,3.09841516144783,C2
+AT1G69480,EXS (ERD1/XPR1/SYG1) family protein,2.95679078356444,C2
+AT5G45310,,2.94009190760986,C1
+AT1G14730,Cytochrome b561/ferric reductase transmembrane protein family,2.92105696484199,C2
+AT5G23240,DNAJ heat shock N-terminal domain-containing protein,2.86222979562311,C1
+AT4G29930,basic helix-loop-helix (bHLH) DNA-binding superfamily protein,2.83671629077322,C2
+AT2G23000,serine carboxypeptidase-like 10,2.77401976965115,C2
+AT4G02280,sucrose synthase 3,2.73706695908197,C2
+AT4G27410,NAC (No Apical Meristem) domain transcriptional regulator superfamily protein,2.72691335842453,C2
+AT5G58670,phospholipase C1,2.68312861729212,C2
+AT2G40460,Major facilitator superfamily protein,2.56352222091447,C2
+AT1G67360,Rubber elongation factor protein (REF),2.46530612211461,C2
+AT1G04220,3-ketoacyl-CoA synthase 2,2.44862260072817,C2
+AT4G19230,cytochrome P450, family 707, subfamily A, polypeptide 1,2.36282771799674,C2
+AT1G14520,myo-inositol oxygenase 1,2.26273612730503,C2
+AT4G23700,cation/H+ exchanger 17,2.19148398000606,C2
+AT4G31330,Protein of unknown function, DUF599,-2.27706285542029,C2
+AT5G64100,Peroxidase superfamily protein,-2.4849498978145,C1
+AT2G22122,,-2.48877771378632,C1
+AT1G52200,PLAC8 family protein,-2.57591684267222,C1
+AT5G47950,HXXXD-type acyl-transferase family protein,-2.62075565858337,C1
+AT4G33120,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,-2.64110643067108,C1
+AT2G35270,Predicted AT-hook DNA-binding family protein,-2.79003906246032,C1
+AT5G40590,Cysteine/Histidine-rich C1 domain family protein,-2.90157458813418,C1
+AT3G46330,Leucine-rich repeat protein kinase family protein,-2.90575087349849,C1
+AT2G19970,CAP (Cysteine-rich secretory proteins, Antigen 5, and Pathogenesis-related 1 protein) superfamily protein,-3.09207036035773,C2
+AT3G23510,Cyclopropane-fatty-acyl-phospholipid synthase,-3.1303022778804,C1
+AT5G43350,phosphate transporter 1;1,-3.16836073879366,C1
+AT5G49850,Mannose-binding lectin superfamily protein,-3.1929079421428,C2
+AT5G19040,isopentenyltransferase 5,-3.27968187980995,C1
+AT2G42060,Cysteine/Histidine-rich C1 domain family protein,-3.52380274974411,C1
+AT3G02620,Plant stearoyl-acyl-carrier-protein desaturase family protein,-3.6584251711175,C1
+AT4G15290,Cellulose synthase family protein,-3.67591508562208,C1
+AT4G15270,glucosyltransferase-related,-3.70458281871856,C1
+AT4G25110,metacaspase 2,-3.80786326224042,C1
+AT3G50010,Cysteine/Histidine-rich C1 domain family protein,-3.82445898992484,C1
+AT4G13300,terpenoid synthase 13,-4.07607564298187,C1
+AT4G12545,Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein,-4.18528562620525,C1
+AT5G23840,MD-2-related lipid recognition domain-containing protein,-4.19460906545459,C1
+AT5G49770,Leucine-rich repeat protein kinase family protein,-4.23924437592749,C1
+AT2G28960,Leucine-rich repeat protein kinase family protein,-4.26591257273599,C1
+AT3G20360,TRAF-like family protein,-4.46810460765854,C1
+AT2G28970,Leucine-rich repeat protein kinase family protein,-4.54428468710705,C1
+AT1G07690,,-4.552293871134,C1
+AT3G14260,Protein of unknown function (DUF567),-4.5705882044706,C1
+AT5G59680,Leucine-rich repeat protein kinase family protein,-4.57426146216212,C1
+AT1G44050,Cysteine/Histidine-rich C1 domain family protein,-4.83219498084701,C1
+AT3G03670,Peroxidase superfamily protein,-5.3652426765591,C1
+AT1G26250,Proline-rich extensin-like family protein,-5.43575963934083,C1
+AT3G46400,Leucine-rich repeat protein kinase family protein,-6.01991068613774,C1
+AT3G27950,GDSL-like Lipase/Acylhydrolase superfamily protein,-6.21431505003946,C1
+AT1G05700,Leucine-rich repeat transmembrane protein kinase protein,-6.30539415845561,C1
+AT1G66930,Protein kinase superfamily protein,-6.36321320984782,C1
+AT1G70260,nodulin MtN21 /EamA-like transporter family protein,-7.33946504394317,C2
